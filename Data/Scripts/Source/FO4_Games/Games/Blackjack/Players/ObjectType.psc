@@ -40,7 +40,7 @@ Group Wager
 	{The wager values.}
 	int Property WagerStep = 5 AutoReadOnly
 	int Property WagerMinimum = 5 AutoReadOnly
-	int Property WagerMaximum = 50 AutoReadOnly
+	int Property WagerMaximum = 5000 AutoReadOnly
 EndGroup
 
 Group Choice
